@@ -3,7 +3,7 @@ Atualmente Estudante de CyberSegurança, criandoconteúdos pro meu Blog, Medium 
 
 - 👨🏻‍💻**Aluno** de CyberSegurança na [CySource Academy] (https://www.cysource-academy.com.br/)
 - 📺 🎧 🏊 Meus Hobbys são: Assistir Televisão, escutar música, e natação
-- 🌱 I’m currently learning Python
+- 🌱 Atualmente estou aprendendo Python e Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
