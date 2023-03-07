@@ -3,11 +3,15 @@ Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium
 
 - 👨🏻‍💻**Aluno** de CyberSegurança na [CySource Academy] (https://www.cysource-academy.com.br/)
 - 📺 🎧 🏊 Meus Hobbys são: Assistir Televisão, escutar música, e natação
-- 🌱 Atualmente estou aprendendo Python e Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🖥️ Atualmente estou aprendendo Python e Javascript
 - 📫 How to reach me ...
 
-<!---
-Claudio-Prates/Claudio-Prates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline">
+  &nbsp;&nbsp;
+            <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          &nbsp;&nbsp;
+  &nbsp;&nbsp;
+            <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</div> 
