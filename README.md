@@ -14,6 +14,12 @@ Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium
             <img width='50' height='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+      &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+          
 </div> 
 
 ##
