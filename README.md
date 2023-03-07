@@ -1,4 +1,4 @@
-### Cláudio Prates aqui :)
+### Cláudio Prates aqui 😃
 Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium e outras redes. Curioso sobre programação e estudando Javascript nas horas vagas.
 
 - 👨🏻‍💻**Aluno** de CyberSegurança na [CySource Academy] (https://www.cysource-academy.com.br/)
