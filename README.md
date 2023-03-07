@@ -19,7 +19,7 @@ Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium
 ##
 
 ### Como chegar até mim:
-
+<div display:inline>
 &nbsp;<a href="https://www.linkedin.com/in/claudiocesarpratesjuniorpcdadm">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
@@ -27,3 +27,5 @@ Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium
 &nbsp;<a href="https://www.instagram.com/claudiocesarpratesjunior/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
+  </div>
