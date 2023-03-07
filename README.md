@@ -4,7 +4,7 @@ Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium
 - 👨🏻‍💻**Aluno** de CyberSegurança na [CySource Academy] (https://www.cysource-academy.com.br/)
 - 📺 🎧 🏊 **Meus Hobbys são:** Assistir Televisão, escutar música, e natação
 - 🖥️ Atualmente estou **aprendendo** Python e Javascript
-- 📫 How to reach me ...
+- 📫 No momento, estou focando em:
 
 <div style="display: inline">
   &nbsp;&nbsp;
