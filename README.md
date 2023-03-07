@@ -34,5 +34,5 @@ Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium
 
 
 <a href="https://medium.com/p/75bd8115c494/edit">
-   Prevenindo Fraudes na Era Digital: Como Proteger seus Dados e Evitar Cair em Armadilhas na Internet(Medium)
+   Prevenindo Fraudes na Era Digital: Como Proteger seus Dados e Evitar Cair em Armadilhas na Internet
   </a>
