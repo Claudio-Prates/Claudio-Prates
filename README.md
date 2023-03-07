@@ -1,9 +1,9 @@
 ### Cláudio Prates aqui 😃
-Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium e outras redes. Curioso sobre programação e estudando Javascript nas horas vagas.
+Atualmente Estudante de CyberSegurança, criando conteúdos pro meu Blog, Medium e outras redes. Curioso sobre programação e estudando Javascript e PHP nas horas vagas.
 
 - 👨🏻‍💻**Aluno** de CyberSegurança na [CySource Academy] (https://www.cysource-academy.com.br/)
 - 📺 🎧 🏊 **Meus Hobbys são:** Assistir Televisão, escutar música, e natação
-- 🖥️ Atualmente estou **aprendendo** Python e Javascript
+- 🖥️ Atualmente estou aprendendo **Python , Javascript e PHP**
 - 🖥️ No momento, estou focando em:
 
 <div style="display: inline">
