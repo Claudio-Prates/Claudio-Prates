@@ -27,7 +27,7 @@ Atualmente Estudante de CyberSegurança, criando conteúdos sobre Cyber e Tecnol
 &nbsp;<a href="https://www.instagram.com/claudiocesarpratesjunior/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/claudiocesarpratesjunior/">
+&nbsp;<a href="https://medium.com/@cpratesjunior">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
 
