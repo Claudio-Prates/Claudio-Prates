@@ -40,7 +40,7 @@ Atualmente Estudante de CyberSegurança, criando conteúdos sobre Cyber e Tecnol
    Prevenindo Fraudes na Era Digital: Como Proteger seus Dados e Evitar Cair em Armadilhas na Internet
   </a>
   <a href=" https://medium.com/@cpratesjunior/diferen%C3%A7as-entre-get-e-post-a9349f20c4fe">
-   Diferenças entre GET e POST
+     Diferenças entre GET e POST
   </a>
   
  
