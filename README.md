@@ -8,14 +8,11 @@ Atualmente Estudante de CyberSegurança, criando conteúdos sobre Cyber e Tecnol
 
 <div style="display: inline">
  
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img  width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-         &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-   &nbsp;&nbsp;
-  
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-   &nbsp;&nbsp;
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img  width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   
 </div> 
          
 
