@@ -30,6 +30,8 @@ Atualmente Estudante de CyberSegurança, criando conteúdos sobre Cyber e Tecnol
 &nbsp;<a href="https://medium.com/@cpratesjunior">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
 
 ##
 
