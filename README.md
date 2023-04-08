@@ -13,6 +13,8 @@ Atualmente Estudante de CyberSegurança, criando conteúdos sobre Cyber e Tecnol
          &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    &nbsp;&nbsp;
+  
+  &nbsp;&nbsp;<img width='50' height='50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;
 </div> 
           
 </div> 
@@ -30,7 +32,7 @@ Atualmente Estudante de CyberSegurança, criando conteúdos sobre Cyber e Tecnol
 &nbsp;<a href="https://medium.com/@cpratesjunior">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
           
 
 ##
